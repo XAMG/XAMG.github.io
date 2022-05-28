@@ -1,0 +1,2 @@
+# XAMG.github.io
+test
